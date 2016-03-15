@@ -9,5 +9,5 @@ html {
 }
 
 .strike {
-  text-decoration: strikethrough;
+  text-decoration: line-through;
 }
